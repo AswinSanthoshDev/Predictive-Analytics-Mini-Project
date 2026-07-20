@@ -6,17 +6,17 @@ The project demonstrates the entire data science workflow, from data cleaning an
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🌐 **Streamlit App:**  
+**Streamlit App:**  
 https://predictive-analytics-mini-project.streamlit.app/
 
-📂 **GitHub Repository:**  
+**GitHub Repository:**  
 https://github.com/AswinSanthoshDev/Predictive-Analytics-Mini-Project
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer Lifetime Value (CLV) is an important business metric that estimates the total value a customer is expected to generate over time.
 
@@ -24,7 +24,7 @@ This project predicts **Future Customer Lifetime Value** using customer demograp
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform Exploratory Data Analysis (EDA)
 - Clean and preprocess real-world style data
@@ -36,7 +36,7 @@ This project predicts **Future Customer Lifetime Value** using customer demograp
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **25,000 customer records** after preprocessing.
 
@@ -57,7 +57,7 @@ The dataset contains **25,000 customer records** after preprocessing.
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The following preprocessing steps were performed:
 
@@ -70,7 +70,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 Three new features were created:
 
@@ -84,7 +84,7 @@ These engineered features improved the predictive capability of the model.
 
 ---
 
-## 🤖 Models Implemented
+## Models Implemented
 
 The following regression models were evaluated:
 
@@ -97,7 +97,7 @@ The following regression models were evaluated:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Model | R² Score |
 |--------|----------:|
@@ -110,7 +110,7 @@ The following regression models were evaluated:
 
 ### Best Model
 
-🏆 **XGBoost Regressor**
+**XGBoost Regressor**
 
 Performance:
 
@@ -120,7 +120,7 @@ Performance:
 
 ---
 
-## 💻 Streamlit Application
+## Streamlit Application
 
 The deployed web application allows users to:
 
@@ -131,7 +131,7 @@ The deployed web application allows users to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -146,7 +146,7 @@ The deployed web application allows users to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Predictive-Analytics-Mini-Project/
@@ -170,7 +170,7 @@ Predictive-Analytics-Mini-Project/
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Customer spending is one of the strongest indicators of Future CLV.
 - Purchase frequency positively influences customer lifetime value.
@@ -182,7 +182,7 @@ Predictive-Analytics-Mini-Project/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - The dataset is synthetic and may not capture all real-world behaviors.
 - External business factors were not included.
@@ -192,7 +192,7 @@ Predictive-Analytics-Mini-Project/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Train on real-world business data.
 - Deploy using Docker and cloud services.
@@ -202,7 +202,7 @@ Predictive-Analytics-Mini-Project/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aswin Santhosh**
 
